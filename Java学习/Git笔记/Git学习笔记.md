@@ -520,3 +520,6 @@ it is hot-fix   pkq  feifijekv
 > ```
 >
 > 
+
+## Git团队协作机制
+
